@@ -16,3 +16,32 @@ So, Conducted in depth analysis of customers and products performance, region/ma
 4). Supply Chain View : Provided a valuable metrics for customers and products, alongside a detailed net sales error analysis. Contributed to improved sales accuracy and identified areas for enhancement.
 
 5). Executive View : Showcased subzone-level market share trends, revenue breakdown by division and channel specific metrics.
+
+
+**Tech stacks**
+* SQL
+* PowerBi Desktop
+* Excel
+* DAX language
+* DAX studio (for optimizing the report)
+* Project charter file
+* 
+**PowerBI techniques Learnt**
+* What are all the questions should be asked before staring the project
+* Creating calculated columns
+* creating measure using DAX language
+* Data modeling
+* Using Bookmarks to switch between two visuals
+* Page navigation with buttons
+* Using divide function to prevent zero division errors
+* creating date table using m language
+* Dynamic titles based on the applied filters
+* Using KPI indicators
+* Conditional formatting the values in visuals using icons or background color
+* Data validation techniques
+* PowerBi services
+* Publishing reports to PowerBi services
+* Setting up personal gateway to set up the auto refresh of data
+* PowerBi App creation
+* Collaboration, workspace, access permissions in PowerBi services
+* And more 😅

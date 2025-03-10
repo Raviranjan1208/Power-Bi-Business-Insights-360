@@ -71,4 +71,23 @@ AltiQ hardware is a company which has grown vastly in the recent years, and open
 
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
-Link for Live Interaction with Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMWQ4MzdiMTgtMWI2OC00OGM1LWJlM2QtZTI0NDVmMGQyOTIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+### Dashboard designing
+
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+## Home view
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+https://app.powerbi.com/view?r=eyJrIjoiYzk4Njg5OTUtZTQxOC00OTViLWJhOTUtMjlkMjdkMDlkNjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0e2ee118ea072e79677b
+
+- Finance View
+
+- Sales View
+- 
+- Marketing View
+- 
+- Supply chain View
+- 
+- Executive View
+
+Link for Live Interaction with Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYzk4Njg5OTUtZTQxOC00OTViLWJhOTUtMjlkMjdkMDlkNjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9  
